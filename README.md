@@ -2,7 +2,7 @@
 
 A search engine built on top of google search API
 
-You can find a working live demo [here](https://sudosearch.vercel.app/)
+You can find a working live demo [here](https://sudosearch.sudocss.com/)
 
 To run locally you need to create a `.env.local` file in the project's root folder after cloning it, the file should contain the following environment variables:
 
