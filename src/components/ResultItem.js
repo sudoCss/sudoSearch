@@ -6,7 +6,7 @@ const ResultItem = ({ title, link, displayLink, formattedUrl, snippet }) => {
             <p className="text-stone-400 text-sm">{displayLink}</p>
             <h2 className="font-extrabold">{title}</h2>
             <LinkWithStyles href={link}>{formattedUrl}</LinkWithStyles>
-            <p className="">{snippet}</p>
+            <p className="break-words">{snippet}</p>
         </li>
     );
 };
