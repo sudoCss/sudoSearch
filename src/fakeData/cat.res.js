@@ -101,7 +101,7 @@ const fakeData = {
                     htmlSnippet:
                         "Caterpillar Brands. <b>Cat</b> &middot; <b>Cat</b> Financial &middot; <b>Cat</b> Reman &middot; The <b>Cat</b> Rental Store &middot; <b>Cat</b> Lift Trucks &middot; Anchor &middot; AsiaTrak &middot; FG Wilson.",
                     cacheId: "1RbCMw1MM8MJ",
-                    formattedUrl: "https://www.caterpillar.com/",
+                    formattedUrl: "https://www.facebook.com/runwaymagpk/photos/hania-amir-and-naimalkhawar-with-beautiful-people-of-kalash-and-they-both-dresse/332708040818410/",
                     htmlFormattedUrl: "https://www.<b>cat</b>erpillar.com/",
                     pagemap: {
                         cse_thumbnail: [
@@ -139,7 +139,7 @@ const fakeData = {
                     htmlSnippet:
                         "DUST PROOF. Each and every <b>Cat</b> phone is fully sealed. The casing is sealed with a unique pressure-sensitive adhesive – significantly tougher&nbsp;...",
                     cacheId: "5b_dzL_kfoUJ",
-                    formattedUrl: "https://www.catphones.com/",
+                    formattedUrl: "https://www.pinterest.com/pin/678706606336776214/https://www.catphones.com/",
                     htmlFormattedUrl: "https://www.<b>cat</b>phones.com/",
                     pagemap: {
                         metatags: [
