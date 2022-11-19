@@ -2,7 +2,7 @@ import { Fredoka_One } from "@next/font/google";
 
 const fredokaOne = Fredoka_One({
     weight: "400",
-    subsets: ["sudoCss"],
+    subsets: ["latin"],
 });
 
 const SudoSearch = () => {
